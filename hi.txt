@@ -5,4 +5,8 @@ cretaed an a avatar
 login 
 logout 
 
+<<<<<<< HEAD
 changes for main
+=======
+changes for feature 3
+>>>>>>> feature3
