@@ -6,4 +6,8 @@ class hello{
     public void sayHello(){
         System.out.println("hello");
     }
+
+    int a;
 }
+
+//adding a comment
