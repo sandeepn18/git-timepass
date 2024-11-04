@@ -4,3 +4,5 @@ cretaed an a avatar
 
 login 
 logout 
+
+changes for feature 3
